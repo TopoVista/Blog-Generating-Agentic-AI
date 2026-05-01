@@ -213,10 +213,6 @@ Invoke-RestMethod -Method Post `
 - Add persistence or database support
 - Add frontend integration for interactive blog generation
 
-## Resume-Friendly Summary
-
-Built an agentic AI blog generation system using Python, FastAPI, LangGraph, and Groq LLMs. Designed a modular workflow with reusable nodes, typed shared state, and graph-based orchestration to generate SEO-friendly titles and detailed blog content from user-provided topics.
-
 ## License
 
 This project is currently unlicensed. Add a license if you plan to share or distribute it publicly.
